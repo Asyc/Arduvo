@@ -1,0 +1,1 @@
+add_library(Arduvo_TestDLL SHARED dll/library.cpp)
